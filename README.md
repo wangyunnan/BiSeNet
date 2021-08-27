@@ -21,5 +21,7 @@ python evaluate.py
 ## Result
 The final mIoU will be around **78.5**, depending on random initialization. In order to confirm the experimental results, [ckeckpoint](https://drive.google.com/file/d/1xlLH8U9AF5D-RcpuXzWdlkKuG84haUpq/view?usp=sharing) (mIoU=78.73) is provided for testing. 
 The examples of final result:
+
 ![image](https://github.com/wangyunnan/BiSeNet/blob/main/save/example/visual/image.png)
+
 ![image](https://github.com/wangyunnan/BiSeNet/blob/main/save/example/visual/prediction.png)
